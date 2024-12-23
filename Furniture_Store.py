@@ -5,7 +5,7 @@ from tkinter import messagebox
 # Function to connect to the MySQL database using provided credentials
 def connect_to_database():
     try:
-        # Get username and password from entry fields
+        # Get username and password from entry field
         username = username_entry.get()
         password = password_entry.get()
 
