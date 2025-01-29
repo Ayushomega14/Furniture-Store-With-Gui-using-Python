@@ -12,7 +12,7 @@ def connect_to_database():
         # Establish connection to the database
         mydb = mysql.connector.connect(
             host="localhost",
-            user="Your Username",
+            user="Your Username", # Replace with your MySQL Username
             passwd="your Password",  # Replace with your MySQL password
             database="Your Database name"
         )
