@@ -14,7 +14,7 @@ def connect_to_database():
             host="localhost",
             user="Your Username",
             passwd="your Password",  # Replace with your MySQL password
-            database="furniturestore"
+            database="Your Database name"
         )
 
         # Create a cursor object to execute SQL queries
