@@ -14,7 +14,7 @@ def connect_to_database():
             host="localhost",
             user="Your Username", # Replace with your MySQL Username
             passwd="your Password",  # Replace with your MySQL password
-            database="Your Database name"
+            database="Your Database name" # Replace with your MySQL Database name
         )
 
         # Create a cursor object to execute SQL queries
