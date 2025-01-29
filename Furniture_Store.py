@@ -2,7 +2,7 @@ import tkinter as tk
 import mysql.connector
 from tkinter import messagebox
 
-# Function to connect to the MySQL database using provided credentials
+# Function to connect to the MySQL database 
 def connect_to_database():
     try:
         # Get username and password from entry field
@@ -13,7 +13,7 @@ def connect_to_database():
         mydb = mysql.connector.connect(
             host="localhost",
             user="root",
-            passwd="@Ayu1411",  # Replace with your MySQL password
+            passwd="your Password",  # Replace with your MySQL password
             database="furniturestore"
         )
 
