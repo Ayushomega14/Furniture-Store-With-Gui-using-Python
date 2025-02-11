@@ -39,7 +39,7 @@ As we continue to refine and enhance our Furniture Store Management System, our 
 - Adding features such as sales analytics, inventory forecasting, and employee performance tracking.
 - Integrating online payment options and order tracking for improved customer convenience.
 - Enhancing the GUI with modern design principles and responsive layouts for a better user experience.
-- Implementing data backup and recovery mechanisms to ensure data integrity and continuity of operations.
+- Implementing data backup and recovery mechanisms to ensure data integrity and continuity of operation.
 
 ## Contributors
 
